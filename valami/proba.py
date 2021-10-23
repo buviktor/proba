@@ -2,6 +2,6 @@ import random
 
 def ... ():
   if:
-    txt =""
+    txt ="blablabla"
     
    
