@@ -7,4 +7,7 @@ def ... ():
     be szaras = 7
     txt ="blablabla"
     
+    
+    ide = 3
+    oda = 2
    
